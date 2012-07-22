@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>work-artfiles/load_certif.png</file>
+        <file>work-artfiles/lookup_certif.png</file>
+        <file>work-artfiles/reload_certif.png</file>
+    </qresource>
+</RCC>

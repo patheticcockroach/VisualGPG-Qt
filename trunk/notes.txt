@@ -1,0 +1,6 @@
+Pour faire tourner une programme externe via Qt
+ - QProcess
+ - http://www.qtcentre.org/threads/36469-receive-signal-from-a-thread-of-an-external-program?s=abe4ef8c91ccb320d0b0742d56fe15c1
+ - https://qt-project.org/doc/qt-4.8/qprocess.html#setWorkingDirectory
+
+Qq tuto: http://doc.qt.nokia.com/4.7-snapshot/tutorials.html
